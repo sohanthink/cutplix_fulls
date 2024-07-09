@@ -5,3 +5,33 @@
 [16-Feb-2024 00:31:18 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/sohanthink/cutplix.com/vendor/composer/platform_check.php on line 24
 [16-Feb-2024 00:51:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/sohanthink/cutplix.com/vendor/composer/platform_check.php on line 24
 [16-Feb-2024 04:09:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/sohanthink/cutplix.com/vendor/composer/platform_check.php on line 24
+[07-Jul-2024 19:01:32 UTC] PHP Warning:  require(/home/sohanthink/cutplix.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:01:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sohanthink/cutplix.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sohanthink/cutplix.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:02:36 UTC] PHP Warning:  require(/home/sohanthink/cutplix.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:02:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sohanthink/cutplix.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sohanthink/cutplix.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:03:07 UTC] PHP Warning:  require(/home/sohanthink/cutplix.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:03:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sohanthink/cutplix.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sohanthink/cutplix.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:03:09 UTC] PHP Warning:  require(/home/sohanthink/cutplix.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:03:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sohanthink/cutplix.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sohanthink/cutplix.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:03:42 UTC] PHP Warning:  require(/home/sohanthink/cutplix.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:03:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sohanthink/cutplix.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sohanthink/cutplix.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:05:05 UTC] PHP Warning:  require(/home/sohanthink/cutplix.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sohanthink/cutplix.com/public/index.php on line 34
+[07-Jul-2024 19:05:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sohanthink/cutplix.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sohanthink/cutplix.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sohanthink/cutplix.com/public/index.php on line 34
