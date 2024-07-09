@@ -847,6 +847,9 @@ img {
         font-size: 13px;
         padding: 0;
     }
+    .video-container {
+        height: 200px;
+    }
     .banner .overlay h2 {
         font-size: 15px;
     }
