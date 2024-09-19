@@ -691,6 +691,10 @@ img {
     height: 250px;
     width: 100%;
 }
+.portfolio .portfolio_slider .portfolio_video2 iframe {
+    height: 500px;
+    width: 92%;
+}
 
 .portfolio .portfolio_slider .topbar button {
     padding: 8px 25px;
