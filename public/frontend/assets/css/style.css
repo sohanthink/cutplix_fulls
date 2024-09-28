@@ -921,12 +921,18 @@ img {
         padding: 40px 35px;
         width: 100%;
         margin-bottom: 30px;
+        margin-left: 1px;
     }
     .clients .clients_p {
         font-size: 18px;
     }
     .slider-item {
         flex-direction: column;
+    }
+
+    #satisfaction {
+        visibility: hidden;
+        display: none;
     }
     .satisfaction .main .img {
         width: 25%;

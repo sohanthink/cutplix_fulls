@@ -4,13 +4,13 @@
 @endpush
 @section('body')
     <!-- ==============================
-            banner section starts from here
-        ================================= -->
+              banner section starts from here
+             ================================= -->
     <div id="banner" class="banner">
         <div class="video-container">
             <!-- <iframe class="banner_video"
-                    src="https://www.youtube.com/embed/7T3DKRf6Poc?autoplay=1&playlist=arnG_xBcmLs&loop=1&mute=1&controls=0"
-                    frameborder="0" allowfullscreen></iframe> -->
+                                                                            src="https://www.youtube.com/embed/7T3DKRf6Poc?autoplay=1&playlist=arnG_xBcmLs&loop=1&mute=1&controls=0"
+                                                                            frameborder="0" allowfullscreen></iframe> -->
 
             <iframe class="banner_video" src="https://www.youtube.com/embed/WcYmEo9gBfk?autoplay=1&&mute=1&controls=0"
                 frameborder="0" allowfullscreen></iframe>
@@ -28,7 +28,7 @@
 
     <!-- ==============================
           evolution section starts from here
-      ================================= -->
+         ================================= -->
 
     <div id="evolution" class="evolution section-padding">
         <div class="container">
@@ -80,8 +80,8 @@
     </div>
 
     <!-- ==============================
-          services section starts from here
-      ================================= -->
+                                                                  services section starts from here
+                                                              ================================= -->
 
 
     <div id="service" class="service section-padding">
@@ -506,8 +506,8 @@
 
 
     <!-- ==============================
-          clients section starts from here
-      ================================= -->
+                                                                  clients section starts from here
+                                                              ================================= -->
 
 
     <div id="clients" class="clients section-padding">
@@ -515,24 +515,25 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="row clients_logo">
-                        <div class="col-lg-6"><img class="w-100"
-                                src="{{ asset('/') }}frontend/assets/images/clients/Screenshot at Oct 25 04-13-48.png"
-                                alt="" srcset=""></div>
-                        <div class="col-lg-6"><img class="w-100"
-                                src="{{ asset('/') }}frontend/assets/images/clients/Screenshot at Oct 25 04-13-48.png"
+                        <div class="col-lg-6"><img class="w-100 pt-2"
+                                src="{{ asset('/') }}frontend/assets/images/clients/Agisolinc.png" alt=""
+                                srcset=""></div>
+                        <div class="col-lg-6"><img class="w-100 pt-2"
+                                src="{{ asset('/') }}frontend/assets/images/clients/Cinebirds.png" alt=""
+                                srcset=""></div>
+                        <div class="col-lg-6"><img class="w-100 pt-5"
+                                src="{{ asset('/') }}frontend/assets/images/clients/Hilwotech.png" alt=""
+                                srcset=""></div>
+                        <div class="col-lg-6"><img class="w-100 pt-5"
+                                src="{{ asset('/') }}frontend/assets/images/clients/Manpower.png" alt=""
+                                srcset=""></div>
+                        <div class="col-lg-6"><img class="w-100 pt-5"
+                                src="{{ asset('/') }}frontend/assets/images/clients/Marketing Mighty.png"
                                 alt="" srcset=""></div>
                         <div class="col-lg-6"><img class="w-100 pt-5"
-                                src="{{ asset('/') }}frontend/assets/images/clients/Screenshot at Oct 25 04-13-48.png"
-                                alt="" srcset=""></div>
-                        <div class="col-lg-6"><img class="w-100 pt-5"
-                                src="{{ asset('/') }}frontend/assets/images/clients/Screenshot at Oct 25 04-13-48.png"
-                                alt="" srcset=""></div>
-                        <div class="col-lg-6"><img class="w-100 pt-5"
-                                src="{{ asset('/') }}frontend/assets/images/clients/Screenshot at Oct 25 04-13-48.png"
-                                alt="" srcset=""></div>
-                        <div class="col-lg-6"><img class="w-100 pt-5"
-                                src="{{ asset('/') }}frontend/assets/images/clients/Screenshot at Oct 25 04-13-48.png"
-                                alt="" srcset=""></div>
+                                src="{{ asset('/') }}frontend/assets/images/clients/Vantower.png" alt=""
+                                srcset=""></div>
+
                     </div>
                 </div>
                 <div class="col-lg-6 d-flex align-items-center">
@@ -548,8 +549,8 @@
 
 
     <!-- ===================================
-          satisfaction section starts from here
-      ======================================== -->
+                            satisfaction section starts from here
+                             ======================================== -->
 
 
     <div id="satisfaction" class="satisfaction section-padding">
@@ -640,6 +641,6 @@
 
 
     <!-- ===============================
-          contact section starts from here
-      ================================== -->
+                                                                  contact section starts from here
+                                                              ================================== -->
 @endsection
