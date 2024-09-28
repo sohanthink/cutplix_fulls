@@ -73,9 +73,72 @@
                                     <div class="row">
                                         <div class="col-lg-4 mt-5">
                                             <iframe width="100%" height="250px"
-                                                src="https://www.youtube.com/embed/m-x7cFJSiXs"
-                                                title="Jonmo (জন্ম) | Nirjon Nahuel | Nazia | New Bangla Natok 2022 | CINEBIRDS | Full Natok"
+                                                src="https://www.youtube.com/embed/DRMAYwg855c"
+                                                title="#2   REAL ESTATE TOUR" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-4 mt-5">
+                                            <iframe width="100%" height="250px"
+                                                src="https://www.youtube.com/embed/K16kVH62m_4"
+                                                title="#3   PALM BEACH PENTHOUSE" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-4 mt-5">
+                                            <iframe width="100%" height="250px"
+                                                src="https://www.youtube.com/embed/bz4keQZURrg"
+                                                title="#3   PatternAI task 3 2nd draft" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-4 mt-5">
+                                            <iframe width="100%" height="250px"
+                                                src="https://www.youtube.com/embed/GMYZ-P8NDtw" title="Real estate promo"
                                                 frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-4 mt-5">
+                                            <iframe width="100%" height="250px"
+                                                src="https://www.youtube.com/embed/QbNxj1aVJKQ" title="task 5"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-4 mt-5">
+                                            <iframe width="100%" height="250px"
+                                                src="https://www.youtube.com/embed/r9CHw2x8qlU" title="Video 01 24 047"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-4 mt-5">
+                                            <iframe width="100%" height="250px"
+                                                src="https://www.youtube.com/embed/tJSQTjr8jMk"
+                                                title="#1   Corporate Event Highlights Video" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-4 mt-5">
+                                            <iframe width="100%" height="250px"
+                                                src="https://www.youtube.com/embed/4St6-oUdtN4" title="Video 02  24 048"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-4 mt-5">
+                                            <iframe width="100%" height="250px"
+                                                src="https://www.youtube.com/embed/usi-Txd_XBc"
+                                                title="#3   Sales Conference" frameborder="0"
                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
                                             </iframe>
@@ -278,19 +341,116 @@
                                                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
                                             </iframe>
                                         </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/lMsB7Y1UJ_M"
+                                                title="George Ayub X Micronetbd  Shorts 2" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/FyLI-nCXPVM"
+                                                title="George Ayub X Micronetbd  Shorts 2" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/HsXZunTU2GA"
+                                                title="George Ayub X Micronetbd  Shorts 2" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/kEVMARJqY54"
+                                                title="George Ayub X Micronetbd  Shorts 2" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/oy8L5adIoxY"
+                                                title="George Ayub X Micronetbd  Shorts 2" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
 
                             {{-- socioal media categories video --}}
                             <div id="div16" class="hidden">
-                                <div class="portfolio_video">
+                                <div class="portfolio_video2">
                                     <div class="row">
-                                        <div class="col-lg-4 mt-5">
-                                            <iframe width="100%" height="250px"
-                                                src="https://www.youtube.com/embed/m-x7cFJSiXs"
-                                                title="Jonmo (জন্ম) | Nirjon Nahuel | Nazia | New Bangla Natok 2022 | CINEBIRDS | Full Natok"
-                                                frameborder="0"
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/oy8L5adIoxY"
+                                                title="George Ayub X Micronetbd  Shorts 2" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/iOyDqF72ARI"
+                                                title="George Ayub X Micronetbd  Shorts 2" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/35Y6fJnSQtE"
+                                                title="George Ayub X Micronetbd  Shorts 2" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/aC77z4FPYnQ" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/FC3WdDxOtzA" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/TPeJUut-W40" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/WVtSfGvgoTw" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/WPIc9Oi71Ho" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                                            </iframe>
+                                        </div>
+                                        <div class="col-lg-3 mt-5">
+                                            <iframe width="69%" height="500px"
+                                                src="https://www.youtube.com/embed/8MVGjCvIy3U" frameborder="0"
                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
                                             </iframe>
