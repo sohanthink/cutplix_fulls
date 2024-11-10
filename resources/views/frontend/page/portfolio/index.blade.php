@@ -316,14 +316,14 @@
                                                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
                                             </iframe>
                                         </div>
-                                        <div class="col-lg-3 mt-5">
+                                        {{-- <div class="col-lg-3 mt-5">
                                             <iframe width="69%" height="500px"
                                                 src="https://www.youtube.com/embed/KyryPQVHpZc" title="jim podcast shorts"
                                                 frameborder="0"
                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
                                             </iframe>
-                                        </div>
+                                        </div> --}}
                                         <div class="col-lg-3 mt-5">
                                             <iframe width="69%" height="500px"
                                                 src="https://www.youtube.com/embed/hhmyt9QYfG8"
@@ -389,14 +389,14 @@
                             <div id="div16" class="hidden">
                                 <div class="portfolio_video2">
                                     <div class="row">
-                                        <div class="col-lg-3 mt-5">
+                                        {{-- <div class="col-lg-3 mt-5">
                                             <iframe width="69%" height="500px"
                                                 src="https://www.youtube.com/embed/oy8L5adIoxY"
                                                 title="George Ayub X Micronetbd  Shorts 2" frameborder="0"
                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
                                             </iframe>
-                                        </div>
+                                        </div> --}}
                                         <div class="col-lg-3 mt-5">
                                             <iframe width="69%" height="500px"
                                                 src="https://www.youtube.com/embed/iOyDqF72ARI"

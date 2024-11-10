@@ -4,13 +4,13 @@
 @endpush
 @section('body')
     <!-- ==============================
-              banner section starts from here
-             ================================= -->
+                          banner section starts from here
+                         ================================= -->
     <div id="banner" class="banner">
         <div class="video-container">
             <!-- <iframe class="banner_video"
-                                                                            src="https://www.youtube.com/embed/7T3DKRf6Poc?autoplay=1&playlist=arnG_xBcmLs&loop=1&mute=1&controls=0"
-                                                                            frameborder="0" allowfullscreen></iframe> -->
+                                                                                        src="https://www.youtube.com/embed/7T3DKRf6Poc?autoplay=1&playlist=arnG_xBcmLs&loop=1&mute=1&controls=0"
+                                                                                        frameborder="0" allowfullscreen></iframe> -->
 
             <iframe class="banner_video" src="https://www.youtube.com/embed/WcYmEo9gBfk?autoplay=1&&mute=1&controls=0"
                 frameborder="0" allowfullscreen></iframe>
@@ -27,8 +27,8 @@
     </div>
 
     <!-- ==============================
-          evolution section starts from here
-         ================================= -->
+                      evolution section starts from here
+                     ================================= -->
 
     <div id="evolution" class="evolution section-padding">
         <div class="container">
@@ -80,8 +80,8 @@
     </div>
 
     <!-- ==============================
-                                                                  services section starts from here
-                                                              ================================= -->
+                                                                              services section starts from here
+                                                                          ================================= -->
 
 
     <div id="service" class="service section-padding">
@@ -100,8 +100,8 @@
                         <div class="topbar">
                             <button id="btn1" class="active-button" onclick="showDiv(1)">Media</button>
                             <button id="btn2" onclick="showDiv(2)">Creative</button>
-                            <button id="btn3" onclick="showDiv(3)">Application</button>
-                            <button id="btn4" onclick="showDiv(4)">Digital Outreach</button>
+                            {{-- <button id="btn3" onclick="showDiv(3)">Application</button>
+                            <button id="btn4" onclick="showDiv(4)">Digital Outreach</button> --}}
                         </div>
 
                         <!-- main content part starts from here -->
@@ -120,13 +120,14 @@
 
                                         <div class="buttons mt-5">
                                             <button id="btn5" class="active-button d-block"
-                                                onclick="NestedshowDiv(5)"><span>1</span>Social Media Content</button>
+                                                onclick="NestedshowDiv(5)"><span>1</span>Short film </button>
                                             <button class="d-block" id="btn6"
-                                                onclick="NestedshowDiv(6)"><span>2</span>AI Video Art</button>
+                                                onclick="NestedshowDiv(6)"><span>2</span>Music videos</button>
                                             <button class="d-block" id="btn7"
-                                                onclick="NestedshowDiv(7)"><span>3</span>Music Videos</button>
+                                                onclick="NestedshowDiv(7)"><span>3</span>Social media content</button>
                                             <button class="d-block" id="btn8"
-                                                onclick="NestedshowDiv(8)"><span>4</span>Advertising & Commercials</button>
+                                                onclick="NestedshowDiv(8)"><span>4</span>Advertising and commercial
+                                            </button>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
@@ -506,8 +507,8 @@
 
 
     <!-- ==============================
-                                                                  clients section starts from here
-                                                              ================================= -->
+        clients section starts from here
+           ================================= -->
 
 
     <div id="clients" class="clients section-padding">
@@ -549,8 +550,8 @@
 
 
     <!-- ===================================
-                            satisfaction section starts from here
-                             ======================================== -->
+                                        satisfaction section starts from here
+                                         ======================================== -->
 
 
     <div id="satisfaction" class="satisfaction section-padding">
@@ -641,6 +642,6 @@
 
 
     <!-- ===============================
-                                                                  contact section starts from here
-                                                              ================================== -->
+         contact section starts from here
+         ================================== -->
 @endsection
