@@ -31,15 +31,15 @@
                         <li class="nav-item me-4">
                             <a class="nav-link" href="{{ route('user.portfolio') }}">Portfolio</a>
                         </li>
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link" href="{{ route('user.carrer') }}">Career</a>
-                        </li>
+                        </li> --}}
                     </ul>
                 </div>
             </div>
 
             <div class="right">
-                <a href="{{ route('user.learn') }}" class="primary_btn me-3">Learn</a>
+                {{-- <a href="{{ route('user.learn') }}" class="primary_btn me-3">Learn</a> --}}
                 <a href="#contact" class="secondary_btn">Get in Touch</a>
             </div>
 
